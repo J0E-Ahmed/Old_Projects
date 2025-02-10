@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "chatter-ui"
+    },
+    {
+      "path": "chatter-backend"
+    }
+  ],
+  "settings": {
+    "cSpell.words": [
+      "appbar",
+      "pino",
+      "Remy",
+      "scroller"
+    ]
+  }
+}
