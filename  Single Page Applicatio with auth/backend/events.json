@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "title": "Tokyo my Lover",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg",
+      "date": "2024-08-07",
+      "description": "i will be there with someone i love it so much",
+      "id": "100c3718-b5b6-4eb8-b63c-b837f0e19a78"
+    },
+    {
+      "title": "tokyo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg",
+      "date": "2024-07-03",
+      "description": "sad",
+      "id": "8afc3aeb-c533-497f-839f-f7abe45bf5e2"
+    }
+  ],
+  "users": [
+    {
+      "email": "youssef.an.dev@gmail.com",
+      "password": "$2a$12$c6s7LhMXqjCKisP/mW/4Puqpr0QdL7OBhCl8cFHD3HES5Cc6vfoFO",
+      "id": "52a7743e-1f73-4ce0-9870-d9ff77337892"
+    }
+  ]
+}
